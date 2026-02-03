@@ -1,5 +1,7 @@
 import random
 
+#hola
+
 # Colores disponibles
 colores = ['R', 'G', 'B', 'Y', 'O', 'P']  # Rojo, Verde, Azul, Amarillo, Naranja, Púrpura
 
